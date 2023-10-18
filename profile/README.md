@@ -1,6 +1,6 @@
 Hello! 
 
-Welcome to the GitHub page of the **Bioinformatics Lab at the De La Salle University, Manila**.
+Welcome to the GitHub page of the **Bioinformatics Lab at De La Salle University, Manila**.
 
 We build algorithms, software, and machine learning models to solve a wide range of problems in biology.
 
